@@ -1,1 +1,1 @@
-i used gmemni 
+i used gmemni on cooperate_AIcooperate_AI i use chat bots but i use pinecon vectors embeddings and for llm i use gemnini ,i used rag and algorthms to support delays etc ..... ,i dont have much exposure to langchain 
